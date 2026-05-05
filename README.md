@@ -2,12 +2,12 @@
 
 This project is a high-performance Fullstack application designed for an architectural bureau. It features a modern, responsive frontend and a robust backend with data persistence. This was built to demonstrate proficiency in Python/FastAPI and React integration for professional use in the EU market.
 
-## 📸 Project Demonstration
+## Project Demonstration
 ![Application Demo](./React.gif)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: FastAPI (Python 3.12+)
@@ -23,7 +23,7 @@ This project is a high-performance Fullstack application designed for an archite
 
 ---
 
-## 🚀 Installation & Local Setup
+## Installation & Local Setup
 
 ### 1. Backend Setup
 Navigate to the backend directory and set up the virtual environment:
